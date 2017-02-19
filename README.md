@@ -1,2 +1,2 @@
 # remote-repo
-my first remote repository..Yay!!!
+i branch commit in sample beanch....:Wmy first remote repository..Yay!!!
