@@ -1,4 +1,6 @@
 # remote-repo
 my first remote repository..Yay!!!
 
-master modified on local local comment added comment
+local comment added comment
+  
+master added comment remotely
