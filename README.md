@@ -2,9 +2,9 @@
 my first remote repository..Yay!!!
 
 local comment added comment
-
-jjjjjjjjjjjjjjjjjjfsfsfsfsfs  
-
-  aaaaaaaaaaaaaaaaagdgdgdfaaaaaaaaaaa
-  this was changed remptrly
+hfdh
+jjjjjjjjjjjjjjjjjjfsfsfsfsfs   
+gdfgdf
+  aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+this was changed locally
 dfdsfsfsf master added comment remotely
